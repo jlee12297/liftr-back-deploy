@@ -1,0 +1,4 @@
+To connect to the backend you have to log in
+To log in you have to make an auth0 account
+
+/api/protected/api/$route

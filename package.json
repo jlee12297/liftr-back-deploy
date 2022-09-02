@@ -1,0 +1,32 @@
+{
+  "name": "liftr-back-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlee12297/liftr-back-deploy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlee12297/liftr-back-deploy/issues"
+  },
+  "homepage": "https://github.com/jlee12297/liftr-back-deploy#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "connect-session-sequelize": "^7.1.5",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-jwt": "^7.7.5",
+    "express-session": "^1.17.3",
+    "jwks-rsa": "^2.1.4",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.4"
+  }
+}

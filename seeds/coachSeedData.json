@@ -1,0 +1,32 @@
+[
+  {
+    "username": "Ford",
+    "email": "Mustang@gmail.com",
+    "password": "password12345"
+  },
+  {
+    "username": "Rhonda",
+    "email": "Accord@gmail.com",
+    "password": "password12345"
+  },
+  {
+    "username": "Honda",
+    "email": "Civic@gmail.com",
+    "password": "password12345"
+  },
+  {
+    "username": "Toyota",
+    "email": "Camry@gmail.com",
+    "password": "password12345"
+  },
+  {
+    "username": "Boyoka",
+    "email": "Corolla@gmail.com",
+    "password": "password12345"
+  },
+  {
+    "username": "Subaru",
+    "email": "Outback@gmail.com",
+    "password": "password12345"
+  }
+]

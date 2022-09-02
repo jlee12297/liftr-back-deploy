@@ -1,0 +1,39 @@
+[
+    {
+      "username": "harry",
+      "email": "harry@gmail.com",
+      "password": "password",
+      "coach_id": 1
+    },
+    {
+      "username": "rainier",
+      "email": "rainier@gmail.com",
+      "password": "password",
+      "coach_id": 1
+    },
+    {
+      "username": "gabe",
+      "email": "gabe@gmail.com",
+      "password": "password",
+      "coach_id": 1
+    },
+    {
+      "username": "matt",
+      "email": "matt@gmail.com",
+      "password": "password",
+      "coach_id": 2
+    },
+    {
+      "username": "josh",
+      "email": "josh@gmail.com",
+      "password": "password",
+      "coach_id": 2
+    },
+    {
+      "username": "joe",
+      "email": "joe@gmail.com",
+      "password": "password",
+      "coach_id": 2
+    }
+  ]
+  

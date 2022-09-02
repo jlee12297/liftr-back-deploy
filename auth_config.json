@@ -1,0 +1,7 @@
+{
+    "domain": "dev-mqb1gl1v.us.auth0.com",
+    "clientId": "EjsIEs5zBt5nuAZu8mCPwOFySLRb19Rd",
+    "audience": "https://lftr/api",
+    "appOrigin": "http://localhost:3000",
+    "apiOrigin": "http://localhost:3001"
+  }
